@@ -4,4 +4,5 @@ This is the shotgun metagenomics and whole genome sequencing analysis for Erin's
 
 ## Bioinformatics
 
-TruSeq Targeted RNA Expression: 
+[TruSeq Targeted RNA](https://support.illumina.com/bulletins/2016/12/what-sequences-do-i-use-for-adapter-trimming.html) Expression: TruSeq3-PE-2.fa
+
